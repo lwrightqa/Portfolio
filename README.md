@@ -87,12 +87,13 @@ Other sources of info I've used to learn new skills and stay up-to-date.
 ### Books
    * "Explore It! Reduce Risk and Increase Confidence with Exploratory Testing" by Elisabeth Hendrickson
    * "Software Testing: An ISTQB-BCS Certified Tester Foundation Level guide (CTFL v4.0) - 5th edition" by Geoff Thompson, Peter Morgan, Angelina Samaroo, John Kurowski, Peter Williams, Marie Salmon, Paul Weymouth
-
-### Online Communities
-   * 
-   * 
-   * 
+   * "Dear Evil Tester" by Alan Richardson
 
 ### Blogs
-   *
-   *
+   * [EvilTester.com](https://www.eviltester.com/)
+   * [Software Testing Weekly](https://softwaretestingweekly.com/)
+   * [QA Blog by Mindful QA](https://www.mindfulqa.com/blog/)
+
+### Online Communities
+   * [Ministry of Testing](https://www.ministryoftesting.com/)
+   * [Software Testing and Quality Assurance group](https://www.linkedin.com/groups/23402/)
