@@ -73,12 +73,14 @@ Graduated Cum Laude.
 ## Work Samples :bookmark:
 
 ### Test Cases in TestRail
-   *
-   *
+   * Lorem ipsum odor amet, consectetuer adipiscing elit.
+   * Aliquet aliquet netus duis fringilla leo nec.
+   * Neque phasellus ligula ac a at sagittis arcu.
    
 ### Bug Reports in Jira
-   *
-   *
+   * Lorem ipsum odor amet, consectetuer adipiscing elit.
+   * Aliquet aliquet netus duis fringilla leo nec.
+   * Neque phasellus ligula ac a at sagittis arcu.
    
 ## Upskilling Resources :brain:
 
