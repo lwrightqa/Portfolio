@@ -15,7 +15,7 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Sodales phasellus semper ne
 ## Experience :briefcase:
 Lorem ipsum odor amet, consectetuer adipiscing elit. Natoque pharetra auctor tortor, lacus magnis himenaeos. Pellentesque lobortis praesent eleifend fringilla rutrum. Lectus eget quisque tristique tortor risus, imperdiet ligula dapibus. Ridiculus finibus nascetur dis purus magna facilisis curae euismod.
 
-[Resume](https://docs.google.com/document/d/1O592i1q_lzU75irIFs4i39fHYCv7RBWGuel1Ka7ezJs/edit?usp=sharing) | [LinkedIn](linkedin.com/in/uncommon-ink)
+[Resume](https://docs.google.com/document/d/1O592i1q_lzU75irIFs4i39fHYCv7RBWGuel1Ka7ezJs/edit?usp=sharing) | [LinkedIn](https://linkedin.com/in/uncommon-ink)
 
 ## Tools :hammer_and_wrench:	
 
