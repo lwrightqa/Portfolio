@@ -85,13 +85,13 @@ Est a lectus varius rhoncus faucibus volutpat taciti elit.
 Other sources of info I've used to learn new skills and stay up-to-date.
 
 ### Books
-   *
-   *
+   * "Explore It! Reduce Risk and Increase Confidence with Exploratory Testing" by Elisabeth Hendrickson
+   * "Software Testing: An ISTQB-BCS Certified Tester Foundation Level guide (CTFL v4.0) - 5th edition" by Geoff Thompson, Peter Morgan, Angelina Samaroo, John Kurowski, Peter Williams, Marie Salmon, Paul Weymouth
 
 ### Online Communities
-   *
-   *
-   *
+   * 
+   * 
+   * 
 
 ### Blogs
    *
