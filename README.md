@@ -10,7 +10,11 @@
 - [Upskilling Resources](#upskilling-resources-brain)
 
 ## Summary :memo:
-Lorem ipsum odor amet, consectetuer adipiscing elit. Sodales phasellus semper netus; libero congue dis cras aenean et? Nibh nisi eget diam taciti aliquet cras. Sed nam vestibulum; finibus fusce nec eget. Fermentum aliquet orci proin a habitant facilisi cras. Ipsum fusce tincidunt elementum maximus vivamus dictum?
+Hi there! I'm Lisa. I'm a software support and QA specialist with over 10 years of experience troubleshooting issues and ensuring smooth software performance. The bulk of my experience is in SAAS startups.   
+
+I'm skilled at troubleshooting, running tests, and working closely with development teams to improve product quality. I aim to make tech more accessible for users while keeping everything running as it should.   
+
+I'm passionate about continuous improvement. I'm always looking for ways to streamline processes and make software more reliable. Whether solving technical problems or refining testing workflows, I focus on delivering user-friendly solutions that meet the highest quality standards.
 
 ## Experience :briefcase:
 Lorem ipsum odor amet, consectetuer adipiscing elit. Natoque pharetra auctor tortor, lacus magnis himenaeos. Pellentesque lobortis praesent eleifend fringilla rutrum. Lectus eget quisque tristique tortor risus, imperdiet ligula dapibus. Ridiculus finibus nascetur dis purus magna facilisis curae euismod.
