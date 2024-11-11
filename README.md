@@ -1,22 +1,21 @@
 # Portfolio
-- [Summary](#summary)
-- [Experience](#experience)
-- [Tools](#tools)
-- [Skills](#skills)
-- [Coursework & Certifications](#coursework--certifications)
-- [Work Samples](#work-samples)
+- [Summary](#summary-memo)
+- [Experience](#experience-briefcase)
+- [Tools](#tools-hammer_and_wrench)
+- [Skills](#skills-bulb)
+- [Coursework & Certifications](#coursework--certifications-scroll)
+- [Work Samples](#work-samples-bookmark)
   * [Test Cases in TestRail](#test-cases-in-testrail)
   * [Bug Reports in Jira](#bug-reports-in-jira)
-- [Upskilling Resources](#upskilling-resources)
+- [Upskilling Resources](#upskilling-resources-brain)
 
-## Summary
+## Summary :memo:
 Lorem ipsum odor amet, consectetuer adipiscing elit. Sodales phasellus semper netus; libero congue dis cras aenean et? Nibh nisi eget diam taciti aliquet cras. Sed nam vestibulum; finibus fusce nec eget. Fermentum aliquet orci proin a habitant facilisi cras. Ipsum fusce tincidunt elementum maximus vivamus dictum?
 
-## Experience
-
+## Experience :briefcase:
 Lorem ipsum odor amet, consectetuer adipiscing elit. Natoque pharetra auctor tortor, lacus magnis himenaeos. Pellentesque lobortis praesent eleifend fringilla rutrum. Lectus eget quisque tristique tortor risus, imperdiet ligula dapibus. Ridiculus finibus nascetur dis purus magna facilisis curae euismod.
 
-## Tools
+## Tools :hammer_and_wrench:	
 
 __TestRail__
    * Lorem ipsum odor amet, consectetuer adipiscing elit.
@@ -28,12 +27,12 @@ __Jira__
    * Aliquet aliquet netus duis fringilla leo nec.
    * Neque phasellus ligula ac a at sagittis arcu.
 
-__Browser developer tools__
+__Google Chrome Developer Tools__
    * Lorem ipsum odor amet, consectetuer adipiscing elit.
    * Aliquet aliquet netus duis fringilla leo nec.
    * Neque phasellus ligula ac a at sagittis arcu.
 
-## Skills
+## Skills :bulb:
 
 __Manual testing__
    * Lorem ipsum odor amet, consectetuer adipiscing elit.
@@ -55,7 +54,7 @@ __API testing__
    * Aliquet aliquet netus duis fringilla leo nec.
    * Neque phasellus ligula ac a at sagittis arcu.
 
-## Coursework & Certifications
+## Coursework & Certifications :scroll:	
 __Course Name, Level__   
 *Course Author/Company*   
 Est a lectus varius rhoncus faucibus volutpat taciti elit.   
@@ -71,19 +70,19 @@ __Course Name, Level__
 Est a lectus varius rhoncus faucibus volutpat taciti elit.   
 [Certificate Link](https://www.certificate.com)   
 
-## Work Samples
+## Work Samples :bookmark:
 
 ### Test Cases in TestRail
    *
    *
    
-### Bug Reports and in Jira
+### Bug Reports in Jira
    *
    *
    
-## Upskilling Resources
+## Upskilling Resources :brain:
 
-Other sources of info I use to stay up-to-date and competent in QA.
+Other sources of info I've used to learn new skills and stay up-to-date.
 
 ### Books
    *
