@@ -3,7 +3,7 @@
 - [Experience](#experience-briefcase)
 - [Tools](#tools-hammer_and_wrench)
 - [Skills](#skills-bulb)
-- [Coursework & Certifications](#coursework--certifications-scroll)
+- [Coursework & Credentials](#coursework--credentials-scroll)
 - [Work Samples](#work-samples-bookmark)
   * [Test Cases in TestRail](#test-cases-in-testrail)
   * [Bug Reports in Jira](#bug-reports-in-jira)
@@ -14,6 +14,8 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Sodales phasellus semper ne
 
 ## Experience :briefcase:
 Lorem ipsum odor amet, consectetuer adipiscing elit. Natoque pharetra auctor tortor, lacus magnis himenaeos. Pellentesque lobortis praesent eleifend fringilla rutrum. Lectus eget quisque tristique tortor risus, imperdiet ligula dapibus. Ridiculus finibus nascetur dis purus magna facilisis curae euismod.
+
+[Resume](https://docs.google.com/document/d/1O592i1q_lzU75irIFs4i39fHYCv7RBWGuel1Ka7ezJs/edit?usp=sharing) | [LinkedIn](linkedin.com/in/uncommon-ink)
 
 ## Tools :hammer_and_wrench:	
 
@@ -54,21 +56,15 @@ __API testing__
    * Aliquet aliquet netus duis fringilla leo nec.
    * Neque phasellus ligula ac a at sagittis arcu.
 
-## Coursework & Certifications :scroll:	
-__Course Name, Level__   
-*Course Author/Company*   
-Est a lectus varius rhoncus faucibus volutpat taciti elit.   
-[Certificate Link](https://www.certificate.com)   
+## Coursework & Credentials :scroll:	
+__LambdaTest Software Testing Professional Certificate__ 07/2024   
+[*LambdaTest*](https://www.lambdatest.com)  
+Completed a set of four courses covering the foundations, tools and techniques for a career in software testing: Programming Foundations: Software Testing/QA, Software Testing Tips Weekly, Agile Testing & Succeeding in Software Testing.   
+[Certificate](https://www.linkedin.com/learning/certificates/522323b82f1727776c619401ee93b1e7b43a03fd2b23c1871260e4569c2d580d?trk=share_certificate)   
 
-__Course Name, Level__   
-*Course Author/Company*   
-Est a lectus varius rhoncus faucibus volutpat taciti elit.   
-[Certificate Link](https://www.certificate.com)   
-
-__Course Name, Level__
-*Course Author/Company*   
-Est a lectus varius rhoncus faucibus volutpat taciti elit.   
-[Certificate Link](https://www.certificate.com)   
+__B.A. Communications__ 12/2012   
+[*Curry College, Milton MA*](https://www.curry.edu/)  
+Graduated Cum Laude.   
 
 ## Work Samples :bookmark:
 
@@ -91,8 +87,8 @@ Other sources of info I've used to learn new skills and stay up-to-date.
 
 ### Blogs
    * [EvilTester.com](https://www.eviltester.com/)
-   * [Software Testing Weekly](https://softwaretestingweekly.com/)
    * [QA Blog by Mindful QA](https://www.mindfulqa.com/blog/)
+   * [Software Testing Weekly](https://softwaretestingweekly.com/)
 
 ### Online Communities
    * [Ministry of Testing](https://www.ministryoftesting.com/)
