@@ -25,48 +25,22 @@ Before LevelUp, I worked at MeYou Health, a small SAAS startup that provided a w
 
 In 2011, I began my career in SAAS, working at Hubspot. There, I meticulously helped end-users make the most of a fully featured (often overwhelming) marketing suite.   
 
-I worked in several eclectic positions before I moved into the jobs documented on my resume. I've error-checked credentialling forms for insurance companies, moderated massive multiplayer online games, ensured passenger safety and comfort as a flight attendant, stocked greeting cards in retail stores, built and repaired computers, and worked several jobs operating a cash register.   
+I worked in several eclectic positions before I moved into the jobs documented on my resume. I've error-checked credentialling forms for insurance companies, moderated massive multiplayer online games, ensured passenger safety and comfort as a flight attendant, stocked greeting cards in retail stores, built and repaired computers, and worked behind many, many cash registers.   
 
 [Resume](https://docs.google.com/document/d/1O592i1q_lzU75irIFs4i39fHYCv7RBWGuel1Ka7ezJs/edit?usp=sharing) | [LinkedIn](https://linkedin.com/in/uncommon-ink)
 
 ## Tools :hammer_and_wrench:	
 
-__TestRail__
-   * Lorem ipsum odor amet, consectetuer adipiscing elit.
-   * Aliquet aliquet netus duis fringilla leo nec.
-   * Neque phasellus ligula ac a at sagittis arcu.
-
-__Jira__
-   * Lorem ipsum odor amet, consectetuer adipiscing elit.
-   * Aliquet aliquet netus duis fringilla leo nec.
-   * Neque phasellus ligula ac a at sagittis arcu.
-
-__Google Chrome Developer Tools__
-   * Lorem ipsum odor amet, consectetuer adipiscing elit.
-   * Aliquet aliquet netus duis fringilla leo nec.
-   * Neque phasellus ligula ac a at sagittis arcu.
+   * TestRail
+   * Jira
+   * Google Chrome Developer Tools
 
 ## Skills :bulb:
 
-__Manual testing__
-   * Lorem ipsum odor amet, consectetuer adipiscing elit.
-   * Aliquet aliquet netus duis fringilla leo nec.
-   * Neque phasellus ligula ac a at sagittis arcu.
-
-__Test documentation__
-   * Lorem ipsum odor amet, consectetuer adipiscing elit.
-   * Aliquet aliquet netus duis fringilla leo nec.
-   * Neque phasellus ligula ac a at sagittis arcu.
-
-__Exploratory testing__
-   * Lorem ipsum odor amet, consectetuer adipiscing elit.
-   * Aliquet aliquet netus duis fringilla leo nec.
-   * Neque phasellus ligula ac a at sagittis arcu.
-
-__API testing__
-   * Lorem ipsum odor amet, consectetuer adipiscing elit.
-   * Aliquet aliquet netus duis fringilla leo nec.
-   * Neque phasellus ligula ac a at sagittis arcu.
+   * Manual testing
+   * Test documentation
+   * Exploratory testing
+   * API testing
 
 ## Coursework & Credentials :scroll:	
 __LambdaTest Software Testing Professional Certificate__ 07/2024   
