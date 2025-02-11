@@ -5,7 +5,6 @@
 - [Skills](#skills-bulb)
 - [Coursework & Credentials](#coursework--credentials-scroll)
 - [Work Samples](#work-samples-bookmark)
-  * [Test Cases in TestRail](#test-cases-in-testrail)
   * [Bug Reports in Jira](#bug-reports-in-jira)
 - [Upskilling Resources](#upskilling-resources-brain)
 
@@ -43,26 +42,29 @@ I worked in several eclectic positions before I moved into the jobs documented o
    * API testing
 
 ## Coursework & Credentials :scroll:	
-__LambdaTest Software Testing Professional Certificate__ 07/2024   
-[*LambdaTest*](https://www.lambdatest.com)  
-Completed a set of four courses covering the foundations, tools and techniques for a career in software testing: Programming Foundations: Software Testing/QA, Software Testing Tips Weekly, Agile Testing & Succeeding in Software Testing.   
-[Certificate](https://www.linkedin.com/learning/certificates/522323b82f1727776c619401ee93b1e7b43a03fd2b23c1871260e4569c2d580d?trk=share_certificate)   
 
-__B.A. Communications__ 12/2012   
+__Certificate in Quality Assurance Engineering__   
+[*Tripleten*](https://tripleten.com)   
+Agile, Android Studio, API testing, automation testing, bug reports, Chrome Devtools, Console, Jira, manual testing, Postman, Python, regression testing, Selenium, SQL, test cases, web application testing   
+_In Progress_ (05/2025)   
+
+__LambdaTest Software Testing Professional Certificate__   
+[*LambdaTest*](https://www.lambdatest.com)  
+Programming Foundations: Software Testing/QA, Software Testing Tips Weekly, Agile Testing & Succeeding in Software Testing.   
+[Certificate](https://www.linkedin.com/learning/certificates/522323b82f1727776c619401ee93b1e7b43a03fd2b23c1871260e4569c2d580d?trk=share_certificate)   
+07/2024   
+
+__B.A. Communications__   
 [*Curry College, Milton MA*](https://www.curry.edu/)  
 Graduated Cum Laude.   
+12/2012   
 
 ## Work Samples :bookmark:
-
-### Test Cases in TestRail
-   * Lorem ipsum odor amet, consectetuer adipiscing elit.
-   * Aliquet aliquet netus duis fringilla leo nec.
-   * Neque phasellus ligula ac a at sagittis arcu.
    
 ### Bug Reports in Jira
-   * Lorem ipsum odor amet, consectetuer adipiscing elit.
-   * Aliquet aliquet netus duis fringilla leo nec.
-   * Neque phasellus ligula ac a at sagittis arcu.
+   * [Map bug #1](https://drive.google.com/file/d/1WxWhKjeswdyjusoUCg3MU0yJ-oK2LR5G/view?usp=sharing)
+   * [Map bug #2](https://drive.google.com/file/d/1Fi4XDfAvVAKC3EaqkDWM0NzavtVVOUD5/view?usp=sharing)
+   * [Map bug #3](https://drive.google.com/file/d/1sMX0_k8Z2kyoXeYjb2VOJwHwW1KYz4af/view?usp=sharing)
    
 ## Upskilling Resources :brain:
 
@@ -80,4 +82,4 @@ Other sources of info I've used to learn new skills and stay up-to-date.
 
 ### Online Communities
    * [Ministry of Testing](https://www.ministryoftesting.com/)
-   * [Software Testing and Quality Assurance group](https://www.linkedin.com/groups/23402/)
+   * [QA & Testing Group](https://www.linkedin.com/groups/95831/)
