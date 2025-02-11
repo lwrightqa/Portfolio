@@ -48,12 +48,6 @@ __Certificate in Quality Assurance Engineering__
 Agile, Android Studio, API testing, automation testing, bug reports, Chrome Devtools, Console, Jira, manual testing, Postman, Python, regression testing, Selenium, SQL, test cases, web application testing   
 _In Progress_ (05/2025)   
 
-__LambdaTest Software Testing Professional Certificate__   
-[*LambdaTest*](https://www.lambdatest.com)  
-Programming Foundations: Software Testing/QA, Software Testing Tips Weekly, Agile Testing & Succeeding in Software Testing.   
-[Certificate](https://www.linkedin.com/learning/certificates/522323b82f1727776c619401ee93b1e7b43a03fd2b23c1871260e4569c2d580d?trk=share_certificate)   
-07/2024   
-
 __B.A. Communications__   
 [*Curry College, Milton MA*](https://www.curry.edu/)  
 Graduated Cum Laude.   
