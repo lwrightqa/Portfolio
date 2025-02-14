@@ -13,7 +13,9 @@ Hi there! I'm Lisa. I'm a software technical support and QA specialist with over
 
 I'm skilled at troubleshooting, running tests, and working closely with development teams to improve product quality. I aim to make tech more accessible for users while keeping everything running as it should.   
 
-I'm passionate about continuous improvement. I'm always looking for ways to streamline processes and make software more reliable. Whether solving technical problems or refining testing workflows, I focus on delivering user-friendly solutions that meet the highest quality standards.
+I'm passionate about continuous improvement. I'm always looking for ways to streamline processes and make software more reliable.   
+
+Whether solving technical problems or refining testing workflows, I focus on delivering user-friendly solutions that meet the highest quality standards.
 
 ## Experience :briefcase:
 At my last workplace, Thought Industries, I advanced from Product Support to Quality Assurance. Three years on the support team helped me become a subject matter expert on our eLearning platform. Additionally, I took pride in writing complete, precise, easy-to-follow bug reports for our development team, which set me off to a great start in QA.   
