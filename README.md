@@ -9,7 +9,7 @@
 - [Upskilling Resources](#upskilling-resources-brain)
 
 ## Summary :memo:
-Hi there! I'm Lisa. I'm a software technical support and QA specialist with over 10 years of experience, between troubleshooting issues and ensuring smooth software performance. The bulk of my experience has been in SAAS startups.   
+I'm a software technical support and QA specialist with over 10 years of experience, between troubleshooting issues and ensuring smooth software performance. The bulk of my experience has been in SAAS startups.   
 
 I'm skilled at troubleshooting, running tests, and working closely with development teams to improve product quality. I aim to make tech more accessible for users while keeping everything running as it should.   
 
