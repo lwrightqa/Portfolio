@@ -34,7 +34,7 @@ Whether solving technical problems or refining testing workflows, I focus on del
 __Certificate in Quality Assurance Engineering__   
 [*Tripleten*](https://tripleten.com)   
 Agile, Android Studio, API testing, automation testing, bug reports, Chrome Devtools, Console, Jira, manual testing, Postman, Python, regression testing, Selenium, SQL, test cases, web application testing   
-_In Progress_ (05/2025)   
+_In Progress_ (Estimated completion in 05/2025)   
 
 __Bachelor of Arts, Communications__   
 [*Curry College, Milton MA*](https://www.curry.edu/)  
