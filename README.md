@@ -36,7 +36,7 @@ __Certificate in Quality Assurance Engineering__
 Agile, Android Studio, API testing, automation testing, bug reports, Chrome Devtools, Console, Jira, manual testing, Postman, Python, regression testing, Selenium, SQL, test cases, web application testing   
 _In Progress_ (05/2025)   
 
-__B.A. Communications__   
+__Bachelor of Arts, Communications__   
 [*Curry College, Milton MA*](https://www.curry.edu/)  
 Graduated Cum Laude.   
 12/2012   
