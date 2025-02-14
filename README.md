@@ -17,7 +17,7 @@ I'm passionate about continuous improvement. I'm always looking for ways to stre
 
 Whether solving technical problems or refining testing workflows, I focus on delivering user-friendly solutions that meet the highest quality standards.
 
-[Resume](https://docs.google.com/document/d/1O592i1q_lzU75irIFs4i39fHYCv7RBWGuel1Ka7ezJs/edit?usp=sharing) | [LinkedIn](https://linkedin.com/in/uncommon-ink)
+[Resume](https://docs.google.com/document/d/1azH7zcWXAiyHwi18xnOtbDhPbjzwHC6tPG4glTn1OGI/edit?usp=sharing) | [LinkedIn](https://linkedin.com/in/uncommon-ink)
 
 ## Tools :hammer_and_wrench:	
    * TestRail
