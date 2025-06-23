@@ -36,8 +36,8 @@ Whether solving technical problems or refining testing workflows, I focus on del
 ## Coursework & Credentials :scroll:	
 __Certificate in Quality Assurance Engineering__   
 [*Tripleten*](https://tripleten.com)   
-Agile, Android Studio, API testing, automation testing, bug reports, Chrome Devtools, Console, Jira, manual testing, Postman, Python, regression testing, Selenium, SQL, test cases, web application testing   
-_In Progress_ (Estimated completion in 06/2025)   
+Agile, Android Studio, API testing, automation testing, bug reports, Chrome Devtools, Console, Jira, manual testing, Postman, Python, Android Studio, regression testing, Selenium, SQL, test cases, web application testing   
+_In Progress_ (Estimated completion in 07/2025)   
 
 __Bachelor of Arts, Communications__   
 [*Curry College, Milton MA*](https://www.curry.edu/)  
@@ -49,7 +49,10 @@ Graduated Cum Laude.
    * [Map bug #1](https://drive.google.com/file/d/1WxWhKjeswdyjusoUCg3MU0yJ-oK2LR5G/view?usp=sharing)
    * [Map bug #2](https://drive.google.com/file/d/1Fi4XDfAvVAKC3EaqkDWM0NzavtVVOUD5/view?usp=sharing)
    * [Map bug #3](https://drive.google.com/file/d/1sMX0_k8Z2kyoXeYjb2VOJwHwW1KYz4af/view?usp=sharing)
-   
+
+### Automated Tests in Python/PyTest
+   * [pytest_practice](https://github.com/lwrightqa/pytest_practice)
+
 ## Upskilling Resources :brain:
 
 Other sources of info I've used to learn new skills and stay up-to-date.
