@@ -6,6 +6,7 @@
 - [Coursework & Credentials](#coursework--credentials-scroll)
 - [Work Samples](#work-samples-bookmark)
   * [Bug Reports in Jira](#bug-reports-in-jira)
+  * [Automated Tests in Python/Pytest](#automated-tests-in-pythonpytest)
 - [Upskilling Resources](#upskilling-resources-brain)
 
 ## Summary :memo:
@@ -17,7 +18,7 @@ I'm passionate about continuous improvement. I'm always looking for ways to stre
 
 Whether solving technical problems or refining testing workflows, I focus on delivering user-friendly solutions that meet the highest quality standards.
 
-[Resume](https://docs.google.com/document/d/1azH7zcWXAiyHwi18xnOtbDhPbjzwHC6tPG4glTn1OGI/edit?usp=sharing) | [LinkedIn](www.linkedin.com/in/lwright-tech)
+[LinkedIn](www.linkedin.com/in/lwright-tech)
 
 ## Tools :hammer_and_wrench:	
    * TestRail
@@ -37,7 +38,7 @@ Whether solving technical problems or refining testing workflows, I focus on del
 __Certificate in Quality Assurance Engineering__   
 [*Tripleten*](https://tripleten.com)   
 Agile, Android Studio, API testing, automation testing, bug reports, Chrome Devtools, Console, Jira, manual testing, Postman, Python, Android Studio, regression testing, Selenium, SQL, test cases, web application testing   
-_In Progress_ (Estimated completion in 07/2025)   
+_In Progress_ (Estimated completion: 07/2025)   
 
 __Bachelor of Arts, Communications__   
 [*Curry College, Milton MA*](https://www.curry.edu/)  
