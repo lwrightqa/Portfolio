@@ -51,9 +51,6 @@ Graduated Cum Laude.
    * [Map bug #2](https://drive.google.com/file/d/1Fi4XDfAvVAKC3EaqkDWM0NzavtVVOUD5/view?usp=sharing)
    * [Map bug #3](https://drive.google.com/file/d/1sMX0_k8Z2kyoXeYjb2VOJwHwW1KYz4af/view?usp=sharing)
 
-### Automated Tests in Python/PyTest
-   * [pytest_practice](https://github.com/lwrightqa/pytest_practice)
-
 ## Upskilling Resources :brain:
 
 Other sources of info I've used to learn new skills and stay up-to-date.
