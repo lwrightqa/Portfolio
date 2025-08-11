@@ -16,7 +16,7 @@ I'm passionate about continuous improvement. I'm always looking for ways to stre
 
 Whether solving technical problems or refining testing workflows, I focus on delivering user-friendly solutions that meet the highest quality standards.
 
-[LinkedIn](www.linkedin.com/in/lwright-tech)
+[LinkedIn](https://www.linkedin.com/in/lwright-tech)
 
 ## Tools :hammer_and_wrench:	
    * TestRail
