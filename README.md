@@ -5,7 +5,6 @@
 - [Skills](#skills-bulb)
 - [Coursework & Credentials](#coursework--credentials-scroll)
 - [Work Samples](#work-samples-bookmark)
-  * [Bug Reports in Jira](#bug-reports-in-jira)
 - [Upskilling Resources](#upskilling-resources-brain)
 
 ## Summary :memo:
@@ -37,18 +36,16 @@ Whether solving technical problems or refining testing workflows, I focus on del
 __Certificate in Quality Assurance Engineering__   
 [*Tripleten*](https://tripleten.com)   
 Agile, Android Studio, API testing, automation testing, bug reports, Chrome Devtools, Console, Jira, manual testing, Postman, Python, Android Studio, regression testing, Selenium, SQL, test cases, web application testing   
-_In Progress_ (Estimated completion: 07/2025)   
+_Completed 07/2025_ 
 
 __Bachelor of Arts, Communications__   
 [*Curry College, Milton MA*](https://www.curry.edu/)  
 Graduated Cum Laude.   
 
 ## Work Samples :bookmark:
-   
-### Bug Reports in Jira
-   * [Map bug #1](https://drive.google.com/file/d/1WxWhKjeswdyjusoUCg3MU0yJ-oK2LR5G/view?usp=sharing)
-   * [Map bug #2](https://drive.google.com/file/d/1Fi4XDfAvVAKC3EaqkDWM0NzavtVVOUD5/view?usp=sharing)
-   * [Map bug #3](https://drive.google.com/file/d/1sMX0_k8Z2kyoXeYjb2VOJwHwW1KYz4af/view?usp=sharing)
+   * [Urban Routes](https://github.com/lwrightqa/Urban-Routes): Automated tests of a rideshare app using PyTest and Selenium.
+   * [Urban Scooter](https://github.com/lwrightqa/Urban-Scooter): Manual tests covering mobile and web as well as API tests for the backend.
+   * [Coin Collector Game](https://github.com/lwrightqa/Coin-Collector): A small game coded through a Python tutorial where I added a new features and unit tests.
 
 ## Upskilling Resources :brain:
 
