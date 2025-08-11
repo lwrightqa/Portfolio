@@ -6,7 +6,6 @@
 - [Coursework & Credentials](#coursework--credentials-scroll)
 - [Work Samples](#work-samples-bookmark)
   * [Bug Reports in Jira](#bug-reports-in-jira)
-  * [Automated Tests in Python/Pytest](#automated-tests-in-pythonpytest)
 - [Upskilling Resources](#upskilling-resources-brain)
 
 ## Summary :memo:
