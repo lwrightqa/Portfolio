@@ -1,7 +1,7 @@
 # Lisa Wright | QA Engineer
 
 **Payments, KYC & Integrations | Web & Mobile Release Testing | API Testing | AI-Assisted Automation**
-Greater Boston · [LinkedIn](https://www.linkedin.com/in/lwright-tech) · [GitHub](https://github.com/lwrightqa) · <!-- add email -->
+Greater Boston · [LinkedIn](https://www.linkedin.com/in/lwright-tech) · [GitHub](https://github.com/lwrightqa) · [lwright.tech@proton.me](mailto:lwright.tech@proton.me)
 
 - [Summary](#summary)
 - [How I Test Today](#how-i-test-today)
