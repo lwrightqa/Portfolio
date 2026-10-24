@@ -1,9 +1,10 @@
 # Lisa Wright | QA Engineer
 
-**Payments, KYC & Integrations | API Testing | AI-Assisted Automation**
-Greater Boston · [LinkedIn](https://www.linkedin.com/in/lwright-tech) · <!-- add email -->
+**Payments, KYC & Integrations | Web & Mobile Release Testing | API Testing | AI-Assisted Automation**
+Greater Boston · [LinkedIn](https://www.linkedin.com/in/lwright-tech) · [GitHub](https://github.com/lwrightqa) · <!-- add email -->
 
 - [Summary](#summary)
+- [How I Test Today](#how-i-test-today)
 - [Work Samples](#work-samples)
 - [Experience](#experience)
 - [Tools & Skills](#tools--skills)
@@ -11,39 +12,57 @@ Greater Boston · [LinkedIn](https://www.linkedin.com/in/lwright-tech) · <!-- a
 - [Upskilling Resources](#upskilling-resources)
 
 ## Summary
-QA engineer with a background in technical support, release management and, most recently, QA for a B2B iGaming platform. I test regulated flows where defects have financial and compliance consequences: identity verification (KYC), payments, and third-party provider integrations.
+QA engineer at a B2B iGaming platform, testing regulated flows where defects have financial and compliance consequences: sign-up and identity verification (KYC), deposits and withdrawals, and third-party provider integrations. I test release candidates across desktop web, mobile web, iOS and Android, for white-label apps in English and Spanish.
 
-I'm strongest at API testing, test design for failure paths and edge cases, and cross-team communication. I use AI tools (LLMs to extract test requirements from Jira tickets, agent-driven end-to-end testing on real mobile devices) to test faster, and I check their output rather than trust it.
+Before QA I spent over a decade in technical support and release management, so I write bug reports that developers can act on and test plans that support teams can read. I'm strongest at API testing, test design for failure paths and edge cases, and cross-team communication. I use AI tools to test faster (agent-driven end-to-end runs on real devices, LLM help turning Jira tickets into test cases) and I check their output rather than trust it.
+
+## How I Test Today
+What a typical feature looks like on my desk, from ticket to sign-off:
+
+1. **Before it's built:** read the ticket for testability. Missing acceptance criteria, unexplained feature flags or undocumented endpoints go back to refinement as questions, not surprises later.
+2. **Test design:** named techniques, not guesswork: boundary values, state transitions for payment lifecycles (pending → approved → settled, or declined and retried), decision tables for KYC outcomes, and pairwise combinations for provider × currency × platform.
+3. **Below the UI:** Postman for request and response bodies, webhook delivery and retries; network captures and logs to confirm what the app sent and what the backend did.
+4. **Automation where it pays:** Playwright for multi-step web flows, Maestro on real Android devices, small Python scripts for smoke checks, and AI agents for exploratory runs.
+5. **Release candidates:** a risk-ranked smoke checklist per release, run across web and mobile, with evidence attached to each result.
+
 ## Work Samples
-Projects from my QA coursework and independent practice.
 
-### [Urban Routes](https://github.com/lwrightqa/Urban-Routes): UI automation
-Python, Selenium, PyTest, Page Object Model. Automated end-to-end tests of a ride-ordering flow.
-- Handles dynamic elements and asynchronous behavior.
-- Note: the target app was a temporary training environment and is no longer online, so the tests can't be run today. <!-- add a screen recording or GIF of a passing run -->
+### From my current role (private code, described here)
+The code and data belong to my employer, so these are described rather than linked.
+- **Web flow automation (Playwright, TypeScript):** multi-step registration and verification flows.
+- **Mobile regression flows (Maestro):** account and login flows for white-label apps in English and Spanish, run on a real Android device.
+- **Payment smoke scripts (Python):** quick deposit and withdrawal checks to confirm a provider is healthy before deeper testing.
+- **Test plans and release-candidate checklists:** per-ticket plans and risk-ranked smoke checklists covering verification and payment flows.
 
-### [Urban Scooter](https://github.com/lwrightqa/Urban-Scooter): manual, mobile and API testing
-Test cases for a scooter delivery app's mobile app, web app and backend API.
-- Functional, negative, UI-vs-design and connectivity testing.
-- Boundary value analysis and equivalence partitioning.
-- API tests in Postman for status codes and response payloads.
+### Public projects
 
-### [Coin Collector](https://github.com/lwrightqa/Coin-Collector): unit testing
-A small Pygame Zero game from a Python tutorial, extended with a timer and WASD controls, plus a pytest suite for the game logic.
+#### [Clawd Tank widescreen](https://github.com/lwrightqa/clawd-tank-widescreen): embedded firmware + desktop app (C, Python)
+A fork of an open-source desk display that shows Claude Code session status, ported to a different ESP32-S3 board and a 640 × 172 screen. Adds a Windows tray app, a macOS flyout and a CI workflow that runs the host tests and renders UI snapshots on GitHub's Mac runner. The README separates what was tested on real hardware from what was not.
 
-### More
-- [Garage Manager](https://github.com/lwrightqa/Garage-Manager): command-line Python app with unit tests.
-- [SauceDemo test suite](https://github.com/lwrightqa/saucedemo): tests for the saucedemo.com demo site.
+#### [Urban Routes](https://github.com/lwrightqa/Urban-Routes): UI automation (Python, Selenium, PyTest)
+Page Object Model suite for a ride-ordering flow, handling dynamic elements and asynchronous behavior.
+- **Best place to start:** [`test_fill_phone_number`](https://github.com/lwrightqa/Urban-Routes/blob/main/tests/test_urban_routes.py), which tests phone verification end to end. It enters a number, reads the SMS confirmation code the app generates from Chrome's performance logs (using a course-provided helper), enters it, and asserts the field values at each step. The page object is in [`urban_routes.py`](https://github.com/lwrightqa/Urban-Routes/blob/main/urban_routes.py).
+- Also covers route entry, plan selection, card details, driver comments, extras and the final order.
+- Note: the target app was a temporary training environment and is no longer online, so the tests can't be run today.
+#### [Urban Scooter](https://github.com/lwrightqa/Urban-Scooter): manual, mobile and API testing
+Test cases for a scooter delivery app's mobile app, web app and backend API: functional, negative, UI-vs-design and connectivity testing; boundary value analysis and equivalence partitioning; Postman checks for status codes and payloads.
+
+#### [Coin Collector](https://github.com/lwrightqa/Coin-Collector): unit testing (Python, pytest)
+A small Pygame Zero game extended with a timer and WASD controls, plus a pytest suite for the game logic.
+
+#### [Garage Manager](https://github.com/lwrightqa/Garage-Manager): command-line Python app with unit tests
 
 ## Experience
 
 ### Manual Software QA Specialist, B2B iGaming platform
 *Jan 2026 – Present · Boston, MA (hybrid)*
-QA for the integrations domain: authentication, identity verification (KYC) and payments.
+QA for the integrations domain (authentication, identity verification and payments) across desktop web, mobile web, iOS and Android.
 - Test third-party payment and identity verification integrations, including Postman API checks for response behavior, webhook delivery and retries.
-- Design tests for regulated payment and onboarding flows: verification edge cases, payment lifecycle states and failure paths.
-- Test new payment provider integrations, including deposits and withdrawals across multiple currencies and regions.
-- Use AI-assisted automation, including agent-driven end-to-end testing on real mobile devices and LLM tooling that extracts test requirements from Jira tickets and specifications.
+- Test new payment provider integrations end to end: card and wallet deposits, withdrawals, saved cards and failure paths across multiple currencies and regions.
+- Run release-candidate smoke testing for white-label web and mobile apps in English and Spanish.
+- Verify backend behavior that has no UI through network captures and logs, attaching the evidence to Jira.
+- Automate repetitive setup and regression, and use AI agents for end-to-end runs on real mobile devices.
+- Review tickets for testability before they reach QA, raising missing acceptance criteria, flag values and API details in refinement.
 - Go-to resource for the integrations domain on authentication, KYC and payment provider behavior.
 
 ### Professional Upskilling & Independent QA Projects
@@ -64,11 +83,13 @@ Technical and Product Support Specialist at Thought Industries (CSAT above 80%, 
 
 | | |
 |---|---|
-| **Testing** | Manual, exploratory, regression, integration, API, boundary value analysis, test planning and documentation, bug reporting |
-| **Automation** | Python, Selenium, PyTest, Page Object Model, AI-assisted test generation |
-| **Tools** | Postman, Jira, TestRail, Chrome DevTools, Android Studio, SQL |
-| **Process** | Agile/Scrum, release management |
-| **Domain** | Payments, KYC / identity verification, third-party integrations, webhooks |
+| **Testing** | Manual, exploratory, regression, integration, API, release-candidate smoke testing, localization, test planning, bug reporting |
+| **Test design** | Boundary values, equivalence partitioning, state transitions, decision tables, pairwise combinations |
+| **Automation** | Playwright, Maestro, Python, Selenium, PyTest, Page Object Model |
+| **AI-assisted testing** | Claude Code, agent-driven end-to-end testing, LLM test case generation |
+| **API & network** | Postman, webhooks, Chrome DevTools, HAR analysis, SQL |
+| **Tools** | Jira, Confluence, TestRail, Git and GitHub, Android Studio |
+| **Domain** | Payments, KYC / identity verification, third-party integrations |
 
 ## Education & Credentials
 **Certificate in Quality Assurance Engineering**, [TripleTen](https://tripleten.com), completed 07/2025
