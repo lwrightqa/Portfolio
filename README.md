@@ -36,9 +36,6 @@ The code and data belong to my employer, so these are described rather than link
 
 ### Public projects
 
-#### [Clawd Tank widescreen](https://github.com/lwrightqa/clawd-tank-widescreen): embedded firmware + desktop app (C, Python)
-A fork of an open-source desk display that shows Claude Code session status, ported to a different ESP32-S3 board and a 640 × 172 screen. Adds a Windows tray app, a macOS flyout and a CI workflow that runs the host tests and renders UI snapshots on GitHub's Mac runner. The README separates what was tested on real hardware from what was not.
-
 #### [Urban Routes](https://github.com/lwrightqa/Urban-Routes): UI automation (Python, Selenium, PyTest)
 Page Object Model suite for a ride-ordering flow, handling dynamic elements and asynchronous behavior.
 - **Best place to start:** [`test_fill_phone_number`](https://github.com/lwrightqa/Urban-Routes/blob/main/tests/test_urban_routes.py), which tests phone verification end to end. It enters a number, reads the SMS confirmation code the app generates from Chrome's performance logs (using a course-provided helper), enters it, and asserts the field values at each step. The page object is in [`urban_routes.py`](https://github.com/lwrightqa/Urban-Routes/blob/main/urban_routes.py).
